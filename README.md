@@ -3,6 +3,8 @@
 A modern, responsive and attractive web application built using **MERN Stack** to manage UAV/Drone pre-flight checklists with a premium animated UI.
 
 ---
+### 🔹 Home
+![Hero Section](https://github.com/luminarakash/Pre-Flight-Checklist/blob/main/Screenshot%202025-11-19%20162056.png)
 
 ## 🚀 Features
 
